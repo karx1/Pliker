@@ -1,0 +1,8 @@
+{
+  "maxUploadSize": 20971520,
+  "webPort": 3333,
+  "binFsLocation": "binfs_location_here",
+  "tokens": {
+    "a_token": "user"
+  }
+}
